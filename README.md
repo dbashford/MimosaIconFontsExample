@@ -1,17 +1,18 @@
 MimosaIconFontsExample
 ======================
 
-An example project showing the usage of the mimosa-svgs-to-iconfonts module
+An example project showing the usage of the mimosa-svgs-to-iconfonts module with the [Mimosa build tool](mimosa.io).
 
 Usage
 ======
-1. `git clone https://github.com/dbashford/MimosaIconFontsExample`
-2. `cd MimosaIconFontsExample`
-3. `npm install`
-4. `mimosa watch -s`
-5. open http://localhost:3000
-6. click the buttons!
-7. browse the code
+1. npm install -g mimosa
+2. `git clone https://github.com/dbashford/MimosaIconFontsExample`
+3. `cd MimosaIconFontsExample`
+4. `npm install`
+5. `mimosa watch -s`
+6. open http://localhost:3000
+7. click the buttons!
+8. browse the code
 
 To generate icons, use the `mimosa iconfonts` command.
 
